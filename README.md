@@ -25,7 +25,7 @@ Systems installed:
 - Swimming system (Beta). Sura Man is the only character to have animation in client side for now.
 - Fly System (Beta). Sura Man is the only character to have animation in client side for now.
 - Jump System (Beta). Sura Man is the only character to have animation in client side for now.
-- Afk System (Beta), use the system of tile for use it manualy, the AFK title is also showed automaticaly after 10 minutes of inactivity of the player. An example of animation is also used. Sura Man is the only character to have animation in client side for now.
+- Afk System (Beta), use the system of title for use it manualy, the AFK title is also showed automaticaly after 10 minutes of inactivity of the player. An example of animation is also used. Sura Man is the only character to have animation in client side for now.
 - Mob Scale System (Beta), you can update scale of mobs without to edit the client, you can update it by MySQL.
 - And few others.
 - Wolfman character.
