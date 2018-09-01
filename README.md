@@ -2,14 +2,15 @@
 Contains source server side of metin refresh project
 
 
-This source use GCC6, his is also compatible with GCC49 but you need to update your Extern folder.
+This source use GCC6, he is also compatible with GCC49 but you need to update your Extern folder.
 This project is currently unstable in server side, you can receive random packet error for example. 
 
 This project is not finish, you can use this project for optimize your project.
 
-You can also update this project by forking it for help me and every other people who want to make a server.
+You can also update this project by forking it for help me and every other peoples who want to make a server.
 
 This project is free to use and cannot be sell for money.
+
 
 Systems installed:
 
@@ -36,6 +37,8 @@ Not installed yet:
 If you want to send a donation you can use cryptocurrency:
 
 BTC - 3JR7H7usN9wLeYhaV6AS7M2PFHuGrVvug1
+
 XMR - 4AYR4Kfy9fbd4CRHvjy2sqEdrayWjoSQ4b8XvtpTwZEcgp6uEVV7UQjeCffGa6AH8q2Ub8R7S5iURZ5kSbhov6fJByQnJ3u
+
 BCN - 27sJsgT9UjgZJxwj3DjvdhJsmyEqw1YntKa6z55HyYuBXtLgoC4ExVyAJQK193JJq2gfyw9KEa4DrJrmPLb3WpYq4AiHCJG
 
