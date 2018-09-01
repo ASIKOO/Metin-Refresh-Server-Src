@@ -36,11 +36,11 @@ Not installed yet:
 
 If you want to send a donation you can use cryptocurrency:
 
-BTC - 3JR7H7usN9wLeYhaV6AS7M2PFHuGrVvug1
+BTC (Bitcoin) - 3JR7H7usN9wLeYhaV6AS7M2PFHuGrVvug1
 
-XMR - 4AYR4Kfy9fbd4CRHvjy2sqEdrayWjoSQ4b8XvtpTwZEcgp6uEVV7UQjeCffGa6AH8q2Ub8R7S5iURZ5kSbhov6fJByQnJ3u
+XMR (Monero) - 4AYR4Kfy9fbd4CRHvjy2sqEdrayWjoSQ4b8XvtpTwZEcgp6uEVV7UQjeCffGa6AH8q2Ub8R7S5iURZ5kSbhov6fJByQnJ3u
 
-BCN - 27sJsgT9UjgZJxwj3DjvdhJsmyEqw1YntKa6z55HyYuBXtLgoC4ExVyAJQK193JJq2gfyw9KEa4DrJrmPLb3WpYq4AiHCJG
+BCN (Bytecoin) - 27sJsgT9UjgZJxwj3DjvdhJsmyEqw1YntKa6z55HyYuBXtLgoC4ExVyAJQK193JJq2gfyw9KEa4DrJrmPLb3WpYq4AiHCJG
 
 
 This project is free to use and cannot be sell for money. I don't take any responsability of selling or bugs or anything else.
