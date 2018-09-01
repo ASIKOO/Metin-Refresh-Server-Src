@@ -9,7 +9,7 @@ This project is not finish, you can use this project for optimize your project.
 
 You can also update this project by forking it for help me and every other peoples who want to make a server.
 
-This project is free to use and cannot be sell for money.
+This project is free to use and cannot be sell for money. I don't take any responsability of selling or bugs or anything else.
 
 
 Systems installed:
@@ -42,3 +42,5 @@ XMR - 4AYR4Kfy9fbd4CRHvjy2sqEdrayWjoSQ4b8XvtpTwZEcgp6uEVV7UQjeCffGa6AH8q2Ub8R7S5
 
 BCN - 27sJsgT9UjgZJxwj3DjvdhJsmyEqw1YntKa6z55HyYuBXtLgoC4ExVyAJQK193JJq2gfyw9KEa4DrJrmPLb3WpYq4AiHCJG
 
+
+This project is free to use and cannot be sell for money. I don't take any responsability of selling or bugs or anything else.
