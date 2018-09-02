@@ -3,7 +3,7 @@ Contains source server side of metin refresh project
 
 
 This source use GCC6, he is also compatible with GCC49 but you need to update your Extern folder.
-This project is currently unstable in server side, you can receive random packet error for example. 
+This project is currently unstable on server side, you can receive random packet error for example, and some systems are not complete yet.
 
 This project is not finish, you can use this project for optimize your project.
 
@@ -30,6 +30,7 @@ Systems installed:
 - Mob Scale System (Beta), you can update scale of mobs without to edit the client, you can update it by MySQL.
 - And few others.
 - Wolfman character.
+- Other few systems like, change start location map and coordinates by the CONFIG file.
 
 Not installed yet:
 - Environment system. Use coordinate what you have choose on a map for enable another environment, this system can be updated in MySQL.
