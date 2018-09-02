@@ -35,6 +35,16 @@ Systems installed:
 Not installed yet:
 - Environment system. Use coordinate what you have choose on a map for enable another environment, this system can be updated in MySQL.
 
+
+Command Lines:
+
+- /reload d -> Reload NPC Shops
+- /reload g -> Reload Item Block System.
+- /reload m -> Reload Weather System.
+- /reload n -> Reload Environment System.
+- /reload t -> Reload Title System.
+- /reload w -> Reload Mob Scale System.
+
 Download Extern: https://mega.nz/#!nd52FCKA!hrOnMC1iq3b0la-QYscpWvR7XhIDy50h1A12Trl9ycQ
 
 If you want to send a donation you can use cryptocurrency:
