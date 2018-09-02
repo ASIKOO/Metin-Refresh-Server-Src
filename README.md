@@ -9,7 +9,7 @@ This project is not finish, you can use this project for optimize your project.
 
 You can also update this project by forking it for help me and every other peoples who want to make a server.
 
-This project is free to use and cannot be sell for money. I don't take any responsability of selling or bugs or anything else.
+This project is free to use and cannot be sell for money. I don't take any responsability of selling or bugs or issues.
 
 
 Systems installed:
@@ -35,6 +35,8 @@ Systems installed:
 Not installed yet:
 - Environment system. Use coordinate what you have choose on a map for enable another environment, this system can be updated in MySQL.
 
+Download Extern: https://mega.nz/#!nd52FCKA!hrOnMC1iq3b0la-QYscpWvR7XhIDy50h1A12Trl9ycQ
+
 If you want to send a donation you can use cryptocurrency:
 
 BTC (Bitcoin) - 3JR7H7usN9wLeYhaV6AS7M2PFHuGrVvug1
@@ -44,4 +46,4 @@ XMR (Monero) - 4AYR4Kfy9fbd4CRHvjy2sqEdrayWjoSQ4b8XvtpTwZEcgp6uEVV7UQjeCffGa6AH8
 BCN (Bytecoin) - 27sJsgT9UjgZJxwj3DjvdhJsmyEqw1YntKa6z55HyYuBXtLgoC4ExVyAJQK193JJq2gfyw9KEa4DrJrmPLb3WpYq4AiHCJG
 
 
-This project is free to use and cannot be sell for money. I don't take any responsability of selling or bugs or anything else.
+This project is free to use and cannot be sell for money. I don't take any responsability of selling or bugs or issues.
