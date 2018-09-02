@@ -1,0 +1,25 @@
+define DOG "\"Anne has apples.\""
+define NAB "red"
+define TESTX 323
+define PI 3.14
+define EXPR "if x == 10 then say(22) end"
+define _TRA_ "translate"
+quest test begin
+    state start begin
+        function doStuff(x, y)
+            say(DOG);
+        end
+        function doStuffAgain(www)
+            say("Test")
+            say(22)
+        end
+        when 20088.chat.translate."SD2.ENTER" begin
+            say(DOG)
+            doStuff(TESTX, 12)
+        end
+        when TESTX.chat."Testx" begin
+            EXPR;
+            say("Ana are ac si ata ! ");
+        end
+    end
+end

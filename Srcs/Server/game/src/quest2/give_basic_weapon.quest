@@ -1,0 +1,8 @@
+quest give_basic_weapon begin
+	state start begin
+		when login or letter begin
+			assert(true)
+		end
+	end
+end
+
