@@ -16,7 +16,7 @@ Systems installed:
 
 - Pet System (old one).
 - New official Pet System.
-- Title system, this system is not static, you can include new titles or update them or remove them without to include them in client side. For proceed , you have to access on the MySQL side, when it's done you can use the command: /reload t
+- Title system, this system is not static, you can include new titles or update them or remove them without to include them in client side. For proceed , you have to access on the MySQL side, you can for example change the name, the description, and also each bonus of the title, when it's done you can use the command ingame: /reload t 
 - Won (Cheque) System.
 - 7th/8th skill system.
 - Shop offline system.
