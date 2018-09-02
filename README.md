@@ -21,7 +21,7 @@ Systems installed:
 - 7th/8th skill system.
 - Shop offline system.
 - Sash system.
-- Weaver System, you can change his setting in MySQL side, the command for reload it is: /reload m
+- Weather System, you can change his setting in MySQL side, the command for reload it is: /reload m
 - Quiver system.
 - Swimming system (Beta). Sura Man is the only character to have animation in client side for now.
 - Fly System (Beta). Sura Man is the only character to have animation in client side for now.
